@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe Id="NFe41191007295822000358550010001237921762238625" versao="4.00">
+      <ide>
+        <cUF>41</cUF>
+        <cNF>76223862</cNF>
+        <natOp>Venda</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>123792</nNF>
+        <dhEmi>2019-10-23T13:47:30-03:00</dhEmi>
+        <dhSaiEnt>2019-10-23T13:47:30-03:00</dhSaiEnt>
+        <tpNF>1</tpNF>
+        <idDest>1</idDest>
+        <cMunFG>4119152</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>5</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>1</indPres>
+        <procEmi>0</procEmi>
+        <verProc>4.00</verProc>
+      </ide>
+      <emit>
+        <CNPJ>07295822000358</CNPJ>
+        <xNome>MULTINACIONAL DIST MAT CONST LTDA - FILIAL II</xNome>
+        <enderEmit>
+          <xLgr>R ALTO PARANA</xLgr>
+          <nro>1693</nro>
+          <xCpl>BRCAO 01</xCpl>
+          <xBairro>EMILIANO PERNETA</xBairro>
+          <cMun>4119152</cMun>
+          <xMun>PINHAIS</xMun>
+          <UF>PR</UF>
+          <CEP>83325045</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>4133198196</fone>
+        </enderEmit>
+        <IE>9052207999</IE>
+        <IEST>9068485972</IEST>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>30981003000114</CNPJ>
+        <xNome>EDEGAR PEGORARO E CIA LTDA</xNome>
+        <enderDest>
+          <xLgr>AV DUQUE DE CAXIAS</xLgr>
+          <nro>270</nro>
+          <xBairro>MARRECAS</xBairro>
+          <cMun>4108403</cMun>
+          <xMun>FRANCISCO BELTRAO</xMun>
+          <UF>PR</UF>
+          <CEP>85601190</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+          <fone>4635246145</fone>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>9078669800</IE>
+      </dest>
+      <det nItem="1">
+        <prod>
+          <cProd>10810</cProd>
+          <cEAN>7891019170210</cEAN>
+          <xProd>SPARLACK VERNIZ NEUTREX IMBUIA BR 3,6L</xProd>
+          <NCM>32089029</NCM>
+          <CEST>2400100</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>GL</uCom>
+          <qCom>20.0000</qCom>
+          <vUnCom>63.4586</vUnCom>
+          <vProd>1269.17</vProd>
+          <cEANTrib>7891019170210</cEANTrib>
+          <uTrib>GL</uTrib>
+          <qTrib>20.0000</qTrib>
+          <vUnTrib>63.4586</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>0.00</vTotTrib>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+              <vBCSTRet>1182.80</vBCSTRet>
+              <pST>18.00</pST>
+              <vICMSSubstituto>91.20</vICMSSubstituto>
+              <vICMSSTRet>121.60</vICMSSTRet>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>1269.17</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>20.94</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>1269.17</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>96.46</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+        <infAdProd>Decreto 37699 Bc icms st:        1,182.80 Vlr icms st:          121.60 Aliquota : 18.00 ICMS Proprio:           91.20</infAdProd>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>10811</cProd>
+          <cEAN>7891019170173</cEAN>
+          <xProd>SPARLACK VERNIZ NEUTREX IMBUIA BR 900ml</xProd>
+          <NCM>32089029</NCM>
+          <CEST>2400100</CEST>
+          <CFOP>5405</CFOP>
+          <uCom>LA</uCom>
+          <qCom>12.0000</qCom>
+          <vUnCom>20.3717</vUnCom>
+          <vProd>244.46</vProd>
+          <cEANTrib>7891019170173</cEANTrib>
+          <uTrib>LA</uTrib>
+          <qTrib>12.0000</qTrib>
+          <vUnTrib>20.3717</vUnTrib>
+          <indTot>1</indTot>
+        </prod>
+        <imposto>
+          <vTotTrib>0.00</vTotTrib>
+          <ICMS>
+            <ICMS60>
+              <orig>0</orig>
+              <CST>60</CST>
+              <vBCSTRet>209.52</vBCSTRet>
+              <pST>18.00</pST>
+              <vICMSSubstituto>16.20</vICMSSubstituto>
+              <vICMSSTRet>21.60</vICMSSTRet>
+            </ICMS60>
+          </ICMS>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>244.46</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>4.03</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>244.46</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>18.58</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+        <infAdProd>Decreto 37699 Bc icms st:          209.52 Vlr icms st:           21.60 Aliquota : 18.00 ICMS Proprio:           16.20</infAdProd>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>0.00</vBC>
+          <vICMS>0.00</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>0.00</vBCST>
+          <vST>0.00</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>1513.63</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>24.97</vPIS>
+          <vCOFINS>115.04</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>1513.63</vNF>
+          <vTotTrib>0.00</vTotTrib>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+        <transporta>
+          <CNPJ>07770042000231</CNPJ>
+          <xNome>322-TRANSAPUCARANA TRANSP RODOV EIRELI - ME</xNome>
+          <IE>9056846473</IE>
+          <xEnder>ESTRADA DO GANCHINHO  957</xEnder>
+          <xMun>CURITIBA</xMun>
+          <UF>PR</UF>
+        </transporta>
+        <vol>
+          <qVol>7</qVol>
+          <nVol>1-7</nVol>
+          <pesoL>86.800</pesoL>
+          <pesoB>86.800</pesoB>
+        </vol>
+      </transp>
+      <cobr>
+        <fat>
+          <nFat>123792</nFat>
+          <vOrig>1513.63</vOrig>
+          <vDesc>0.00</vDesc>
+          <vLiq>1513.63</vLiq>
+        </fat>
+        <dup>
+          <nDup>001</nDup>
+          <dVenc>2019-11-20</dVenc>
+          <vDup>756.82</vDup>
+        </dup>
+        <dup>
+          <nDup>002</nDup>
+          <dVenc>2019-12-18</dVenc>
+          <vDup>756.81</vDup>
+        </dup>
+      </cobr>
+      <pag>
+        <detPag>
+          <tPag>99</tPag>
+          <vPag>1513.63</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>PEDIDO - 390500057 VEND.:PRD1/TIAGO 3905 C.PAGTO 7172    0.00%VCTO ROTA : 322-(322) PR TRANSAPUCARANA   Nome Fantasia: BELLCOLOR.  NAO ACEITAMOS RECLAMACOES APOS 48 HORAS - SAC PR: 0800 709 0419 CFOP 5405 1,513.63</infCpl>
+      </infAdic>
+      <infRespTec>
+        <CNPJ>10289422000182</CNPJ>
+        <xContato>Guilherme</xContato>
+        <email>contato@targetit.com.br</email>
+        <fone>5132044050</fone>
+      </infRespTec>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <Reference URI="#NFe41191007295822000358550010001237921762238625">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <DigestValue>gW0suTFwSgoEam+r2qXqrvsXwqA=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>dWP85C5/hgc91n800UJF/7ZgGq8r8j64Ago4AKxgbxGlPfSiTd9/voYYAXxY0YlWwcnrz0n3zhGPTxyKCdP+UTm7mi/2mDE0Y2sivBkiWmOs2YoB7aq/DUVC+xx7pAmC//y6HKfLI6cJO7PYsczUrDhiXvxgof5sVoAEONlVFcl1awhWg3X4EKXR8dm3kpeXdmsF2A5NLYQiN7aIcNNlXIJCW1ndVOTYGbFSqyuHCOAhhsaS3d+gFEk916TtLPoLErOxI8IiXxn2SNi8aDetzHP+cWdO8xpl1dFqMPgHWKsc/jxxZ50ZTgl1DM2o7mAgG0jYqDnk6D0SfOrgWuevFA==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>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</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt Id="ID141190192326400">
+      <tpAmb>1</tpAmb>
+      <verAplic>PR-v4_5_3</verAplic>
+      <chNFe>41191007295822000358550010001237921762238625</chNFe>
+      <dhRecbto>2019-10-23T14:10:18-03:00</dhRecbto>
+      <nProt>141190192326400</nProt>
+      <digVal>gW0suTFwSgoEam+r2qXqrvsXwqA=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>

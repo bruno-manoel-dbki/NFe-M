@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+  <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+    <infNFe Id="NFe35191060642774000148550010000328351973074167" versao="4.00">
+      <ide>
+        <cUF>35</cUF>
+        <cNF>97307416</cNF>
+        <natOp>VENDA VAREJO COM ST</natOp>
+        <mod>55</mod>
+        <serie>1</serie>
+        <nNF>32835</nNF>
+        <dhEmi>2019-10-24T15:09:38-02:00</dhEmi>
+        <tpNF>1</tpNF>
+        <idDest>2</idDest>
+        <cMunFG>3550308</cMunFG>
+        <tpImp>1</tpImp>
+        <tpEmis>1</tpEmis>
+        <cDV>7</cDV>
+        <tpAmb>1</tpAmb>
+        <finNFe>1</finNFe>
+        <indFinal>0</indFinal>
+        <indPres>0</indPres>
+        <procEmi>0</procEmi>
+        <verProc>2.9.0</verProc>
+      </ide>
+      <emit>
+        <CNPJ>60642774000148</CNPJ>
+        <xNome>OTTO BAUMGART INDUSTRIA E COMERCIO SA</xNome>
+        <enderEmit>
+          <xLgr>R CEL MARCILIO FRANCO</xLgr>
+          <nro>1063</nro>
+          <xBairro>VL IZOLINA</xBairro>
+          <cMun>3550308</cMun>
+          <xMun>SAO PAULO</xMun>
+          <UF>SP</UF>
+          <CEP>02079900</CEP>
+          <cPais>1058</cPais>
+          <xPais>BRASIL</xPais>
+        </enderEmit>
+        <IE>102218982113</IE>
+        <IEST>0990102155</IEST>
+        <CRT>3</CRT>
+      </emit>
+      <dest>
+        <CNPJ>30981003000114</CNPJ>
+        <xNome>EDEGAR PEGORARO E CIA LTDA</xNome>
+        <enderDest>
+          <xLgr>AV DUQUE DE CAXIAS</xLgr>
+          <nro>270</nro>
+          <xBairro>MARRECAS</xBairro>
+          <cMun>4108403</cMun>
+          <xMun>FRANCISCO BELTRAO</xMun>
+          <UF>PR</UF>
+          <CEP>85601190</CEP>
+          <cPais>1058</cPais>
+          <xPais>Brasil</xPais>
+          <fone>554635246145</fone>
+        </enderDest>
+        <indIEDest>1</indIEDest>
+        <IE>9078669800</IE>
+      </dest>
+      <retirada>
+        <CNPJ>30981003000114</CNPJ>
+        <xLgr>R CEL MARCILIO FRANCO</xLgr>
+        <nro>1063</nro>
+        <xBairro>VL IZOLINA</xBairro>
+        <cMun>3550308</cMun>
+        <xMun>SAO PAULO</xMun>
+        <UF>SP</UF>
+      </retirada>
+      <entrega>
+        <CNPJ>30981003000114</CNPJ>
+        <xLgr>AV DUQUE DE CAXIAS</xLgr>
+        <nro>270</nro>
+        <xBairro>MARRECAS</xBairro>
+        <cMun>4108403</cMun>
+        <xMun>FRANCISCO BELTRAO</xMun>
+        <UF>PR</UF>
+      </entrega>
+      <det nItem="1">
+        <prod>
+          <cProd>112023</cProd>
+          <cEAN>7897321120233</cEAN>
+          <xProd>VEDAPREN PAREDE BRANCO BD 18KG</xProd>
+          <NCM>32091010</NCM>
+          <CEST>2400100</CEST>
+          <CFOP>6401</CFOP>
+          <uCom>UN</uCom>
+          <qCom>42.0000</qCom>
+          <vUnCom>125.1330000000</vUnCom>
+          <vProd>5255.59</vProd>
+          <cEANTrib>7897321120233</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>42.0000</qTrib>
+          <vUnTrib>125.1330000000</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>5</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>1828.83</vTotTrib>
+          <ICMS>
+            <ICMS10>
+              <orig>0</orig>
+              <CST>10</CST>
+              <modBC>0</modBC>
+              <vBC>5255.59</vBC>
+              <pICMS>12.0000</pICMS>
+              <vICMS>630.67</vICMS>
+              <modBCST>4</modBCST>
+              <pMVAST>48.1000</pMVAST>
+              <pRedBCST>0.0000</pRedBCST>
+              <vBCST>7783.53</vBCST>
+              <pICMSST>18.0000</pICMSST>
+              <vICMSST>770.36</vICMSST>
+            </ICMS10>
+          </ICMS>
+          <IPI>
+            <qSelo>0</qSelo>
+            <cEnq>999</cEnq>
+            <IPINT>
+              <CST>51</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>4624.92</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>76.31</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>4624.92</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>351.49</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <det nItem="2">
+        <prod>
+          <cProd>121774</cProd>
+          <cEAN>17897321120216</cEAN>
+          <xProd>VEDAPREN PAREDE BRANCO CX 4 GL3,6 KG</xProd>
+          <NCM>32091010</NCM>
+          <CEST>2400100</CEST>
+          <CFOP>6401</CFOP>
+          <uCom>UN</uCom>
+          <qCom>5.0000</qCom>
+          <vUnCom>129.0373000000</vUnCom>
+          <vProd>645.19</vProd>
+          <cEANTrib>17897321120216</cEANTrib>
+          <uTrib>UN</uTrib>
+          <qTrib>5.0000</qTrib>
+          <vUnTrib>129.0373000000</vUnTrib>
+          <indTot>1</indTot>
+          <xPed>5</xPed>
+        </prod>
+        <imposto>
+          <vTotTrib>224.51</vTotTrib>
+          <ICMS>
+            <ICMS10>
+              <orig>0</orig>
+              <CST>10</CST>
+              <modBC>0</modBC>
+              <vBC>645.19</vBC>
+              <pICMS>12.0000</pICMS>
+              <vICMS>77.42</vICMS>
+              <modBCST>4</modBCST>
+              <pMVAST>48.1000</pMVAST>
+              <pRedBCST>0.0000</pRedBCST>
+              <vBCST>955.53</vBCST>
+              <pICMSST>18.0000</pICMSST>
+              <vICMSST>94.57</vICMSST>
+            </ICMS10>
+          </ICMS>
+          <IPI>
+            <qSelo>0</qSelo>
+            <cEnq>999</cEnq>
+            <IPINT>
+              <CST>51</CST>
+            </IPINT>
+          </IPI>
+          <PIS>
+            <PISAliq>
+              <CST>01</CST>
+              <vBC>567.77</vBC>
+              <pPIS>1.6500</pPIS>
+              <vPIS>9.37</vPIS>
+            </PISAliq>
+          </PIS>
+          <COFINS>
+            <COFINSAliq>
+              <CST>01</CST>
+              <vBC>567.77</vBC>
+              <pCOFINS>7.6000</pCOFINS>
+              <vCOFINS>43.15</vCOFINS>
+            </COFINSAliq>
+          </COFINS>
+        </imposto>
+      </det>
+      <total>
+        <ICMSTot>
+          <vBC>5900.78</vBC>
+          <vICMS>708.09</vICMS>
+          <vICMSDeson>0.00</vICMSDeson>
+          <vFCP>0.00</vFCP>
+          <vBCST>8739.06</vBCST>
+          <vST>864.93</vST>
+          <vFCPST>0.00</vFCPST>
+          <vFCPSTRet>0.00</vFCPSTRet>
+          <vProd>5900.78</vProd>
+          <vFrete>0.00</vFrete>
+          <vSeg>0.00</vSeg>
+          <vDesc>0.00</vDesc>
+          <vII>0.00</vII>
+          <vIPI>0.00</vIPI>
+          <vIPIDevol>0.00</vIPIDevol>
+          <vPIS>85.68</vPIS>
+          <vCOFINS>394.64</vCOFINS>
+          <vOutro>0.00</vOutro>
+          <vNF>6765.71</vNF>
+          <vTotTrib>2053.34</vTotTrib>
+        </ICMSTot>
+      </total>
+      <transp>
+        <modFrete>0</modFrete>
+        <transporta>
+          <CNPJ>09272560000250</CNPJ>
+          <xNome>TWR TRANSPORTADORA EIRELI EPP</xNome>
+          <IE>796274390115</IE>
+          <xEnder>AV MONTEIRO LOBATO4550 GALPAO 10A SL 1 CID JARDIM CUMBICA</xEnder>
+          <xMun>GUARULHOS</xMun>
+          <UF>SP</UF>
+        </transporta>
+        <vol>
+          <qVol>47</qVol>
+          <esp>UN</esp>
+          <pesoL>828.000</pesoL>
+          <pesoB>864.800</pesoB>
+        </vol>
+      </transp>
+      <cobr>
+        <fat>
+          <nFat>32835</nFat>
+          <vOrig>6765.71</vOrig>
+          <vDesc>0.00</vDesc>
+          <vLiq>6765.71</vLiq>
+        </fat>
+        <dup>
+          <nDup>001</nDup>
+          <dVenc>2019-12-13</dVenc>
+          <vDup>2255.24</vDup>
+        </dup>
+        <dup>
+          <nDup>002</nDup>
+          <dVenc>2020-01-02</dVenc>
+          <vDup>2255.23</vDup>
+        </dup>
+        <dup>
+          <nDup>003</nDup>
+          <dVenc>2020-01-22</dVenc>
+          <vDup>2255.24</vDup>
+        </dup>
+      </cobr>
+      <pag>
+        <detPag>
+          <tPag>15</tPag>
+          <vPag>6765.71</vPag>
+        </detPag>
+      </pag>
+      <infAdic>
+        <infCpl>Valor dos Tributos Federais: 480,32 / Valor dos Tributos Estaduais: 1.573,02. DECLARO QUE OS PRODUTOS PERIGOSOS ESTAO ADEQUADAMENTE CLASSIFICADOS,     EMBALADOS, IDENTIFICADOS E ESTIVADOS PARA SUPORTAR OS RISCOS DAS OPERACOES DE     TRANSPORTE E QUE ATENDEM AS EXIGENCIAS DA REGULAMENTACAO\201D . BASE: RESOLUCOES     3665 e 5232 da ANTT.          Informativo:    OC:5  PV:416587 Repr:18083  Rom: S/Numero        Convenio 65/1988  Desconto de Icms R ,00</infCpl>
+      </infAdic>
+    </infNFe>
+    <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+      <SignedInfo>
+        <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+        <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+        <Reference URI="#NFe35191060642774000148550010000328351973074167">
+          <Transforms>
+            <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+            <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+          </Transforms>
+          <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+          <DigestValue>wjeqCn/2RiO0xY3AIPe7M4TycGc=</DigestValue>
+        </Reference>
+      </SignedInfo>
+      <SignatureValue>qTJDehzMFmB2tGEYPSlF3AD41WXpfdgcGua0DaX2inUQEtz2U+RSde+VGKc3E/42zrxqtlKx9M0e
+22UsHRVLt2+xcxV/fqy0nJsYRXJgoAYbw+6+tyRaNpf6SMQIaUEoIzCXfaeBKoeU2e/ZUkgShB3j
+1W8Ge/BehJjWMeMlgY7wsW9Y5+vdQ5f017rDKayji1LYt2ZmAG6yWLpE80i58cggpRLvwdJLHG/r
+s2L7+xc+gXWF+EtfgF6kVTUzauHM41s8UDqaPnXyU9c8BFZ+LD1kVG3eW8LF/a6msUuWz18ytEBN
+LwXP/byb4ZqdgDVxt1ssHbZuvA7XtIy8APA6mA==</SignatureValue>
+      <KeyInfo>
+        <X509Data>
+          <X509Certificate>MIIH0zCCBbugAwIBAgIIaAMZBAFIE7wwDQYJKoZIhvcNAQELBQAwgYkxCzAJBgNVBAYTAkJSMRMw
+EQYDVQQKEwpJQ1AtQnJhc2lsMTQwMgYDVQQLEytBdXRvcmlkYWRlIENlcnRpZmljYWRvcmEgUmFp
+eiBCcmFzaWxlaXJhIHYyMRIwEAYDVQQLEwlBQyBTT0xVVEkxGzAZBgNVBAMTEkFDIFNPTFVUSSBN
+dWx0aXBsYTAeFw0xOTA0MDExOTI2NTBaFw0yMDAzMzExOTI2NTBaMIHlMQswCQYDVQQGEwJCUjET
+MBEGA1UEChMKSUNQLUJyYXNpbDE0MDIGA1UECxMrQXV0b3JpZGFkZSBDZXJ0aWZpY2Fkb3JhIFJh
+aXogQnJhc2lsZWlyYSB2MjESMBAGA1UECxMJQUMgU09MVVRJMRswGQYDVQQLExJBQyBTT0xVVEkg
+TXVsdGlwbGExGjAYBgNVBAsTEUNlcnRpZmljYWRvIFBKIEExMT4wPAYDVQQDEzVPVFRPIEJBVU1H
+QVJUIElORFVTVFJJQSBFIENPTUVSQ0lPIFMgQTo2MDY0Mjc3NDAwMDE0ODCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAM56moyD/UG9qynaDnXd7tb1cISI1wejUF3z6ehFVsa4IbgsvMTg
+IN7LFcztmgHuP7TZfsh1XQVL2fUhyXF54A/jE58oDHaHJ9vvEJLo7RcfZ6qMf6mAs9nphxKQI4N8
+sE0j16Ay5m/r916LwjbKKv2nnlphYQr3KgGjTOuj0O52IklMQqwOxrq6K2ZDJMueGY4asmr4p+bn
+w29oTFb91KUuFb8EuPNQyIgHQBY0kVqv3WZqDSW7Z2TYD/8j67v0eUyC2eMuuaA+3thdRDohtqLO
+v2x8398XNYa0RMpLgfyzlIVRk87TJXSmfpgWSJESXyiuUouTOseG3VVSTlmNCR0CAwEAAaOCAt8w
+ggLbMFQGCCsGAQUFBwEBBEgwRjBEBggrBgEFBQcwAoY4aHR0cDovL2NjZC5hY3NvbHV0aS5jb20u
+YnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5wN2IwHQYDVR0OBBYEFJulrG4qlPtBRAhABDjr
+L/y8z1lhMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUNa4xFPZe0npPWP40qBpnlwrEmwcwXgYDVR0g
+BFcwVTBTBgZgTAECASYwSTBHBggrBgEFBQcCARY7aHR0cHM6Ly9jY2QuYWNzb2x1dGkuY29tLmJy
+L2RvY3MvZHBjLWFjLXNvbHV0aS1tdWx0aXBsYS5wZGYwgd4GA1UdHwSB1jCB0zA+oDygOoY4aHR0
+cDovL2NjZC5hY3NvbHV0aS5jb20uYnIvbGNyL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5jcmwwP6A9
+oDuGOWh0dHA6Ly9jY2QyLmFjc29sdXRpLmNvbS5ici9sY3IvYWMtc29sdXRpLW11bHRpcGxhLXYx
+LmNybDBQoE6gTIZKaHR0cDovL3JlcG9zaXRvcmlvLmljcGJyYXNpbC5nb3YuYnIvbGNyL0FDU09M
+VVRJL2FjLXNvbHV0aS1tdWx0aXBsYS12MS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQG
+CCsGAQUFBwMCBggrBgEFBQcDBDCBxwYDVR0RBIG/MIG8gR1zYW5kcmEuYW1lcmljb0B2ZWRhY2l0
+LmNvbS5icqAoBgVgTAEDAqAfEx1ST0xGIEdVU1RBVk8gUk9CRVJUTyBCQVVNR0FSVKAZBgVgTAED
+A6AQEw42MDY0Mjc3NDAwMDE0OKA9BgVgTAEDBKA0EzIwNDEwMTk0MDAwNzc0NDk5ODM0MDAwMDAw
+MDAwMDAwMDAwMDAwMjU1MTQ5NTdTU1BTUKAXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwDQYJKoZI
+hvcNAQELBQADggIBAB6NjDjyzjjk89w/VeP1B96KXOkLV3ipwatxhZHa6MVW2urP+aG8bJRmuXy2
+LMjOqrgI6zpiNKz5rI5zrpn/nanmPlWiVNuNMrecROAgEctjuOx0VXQhzSYEABARw7CVmZFl8kvC
+rd5geAjxQeUz5eKzjiN6Su5bssbIOxPGPv1cuc7lkkTHywlFPbyAqNCuWVcMHs7XftvZscdZL+R6
+925/7p7IdqewwqFL2h9lHpQ599u2yK7OxiHV2bm7cJASe2jygTs7hW+DbK1+wU98UM7GAJVGlN2C
+QyMat2rdO6U8bIUdnVLi+zA8Nwd29c1mS3/4DfjFTW1JtY94Ul5oK0W7Mw1+n9t5FQEGIfnkuJd3
+A6C+yhziRdoEwASm10aY6Rwzt6wEUI6Qj1Tz+BE1oRu7OxuGzsnZgpVPlKDUzW7EixiStfXDCxnW
+HKraxAvDnqYX06DOsvGY415qVonH90vo6yB/qQq7vG9azTg2ZkK8rRqIwIIIR83v9sYzFIh82wbt
+AMStW8pFICa3DqPFfBxGyh2nqH4ij/w3KA3PhBYm9IW7cGbjKxrW7h3wmpz2HnzbWEy++Lj1/IIx
+wyVu4u7OJoKHzKk4c2+yT08jJl3KYcCJ2Y7HDXW/U6SHICbs49hGcyACUprdIZAczLsInCqYG4Np
+xTbA9V3D8cK0wvfy</X509Certificate>
+        </X509Data>
+      </KeyInfo>
+    </Signature>
+  </NFe>
+  <protNFe versao="4.00">
+    <infProt Id="Id135190790910658">
+      <tpAmb>1</tpAmb>
+      <verAplic>SP_NFE_PL009_V4</verAplic>
+      <chNFe>35191060642774000148550010000328351973074167</chNFe>
+      <dhRecbto>2019-10-24T15:13:47-03:00</dhRecbto>
+      <nProt>135190790910658</nProt>
+      <digVal>wjeqCn/2RiO0xY3AIPe7M4TycGc=</digVal>
+      <cStat>100</cStat>
+      <xMotivo>Autorizado o uso da NF-e</xMotivo>
+    </infProt>
+  </protNFe>
+</nfeProc>
