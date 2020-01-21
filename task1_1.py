@@ -14,7 +14,7 @@ import pandas as pd
 
 
 values=[]     
-os.chdir("xml")
+# os.chdir("xml")
 
 for xml in os.listdir():
     
@@ -27,10 +27,6 @@ for xml in os.listdir():
     
     print("NFe: ", nfe_id)
     print("NCM      |   Equipamento")
-    
-    
-    
-        
     
     for item in itens:
         prods = []
